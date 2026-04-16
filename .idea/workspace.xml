@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="query theory - done">
+    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="query and path practice - done">
+      <change afterPath="$PROJECT_DIR$/request_body/ex_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_body/ex_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_body/ex_3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_body/ex_4/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/practice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/query/practice/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\request_body" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\another" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\15.04.2026" />
@@ -145,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776326237344</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="query and path practice - done">
+      <option name="closed" value="true" />
+      <created>1776330419615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330419615</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +165,7 @@
     <MESSAGE value="uv practice" />
     <MESSAGE value="fast api endpoints and routes" />
     <MESSAGE value="query theory - done" />
-    <option name="LAST_COMMIT_MESSAGE" value="query theory - done" />
+    <MESSAGE value="query and path practice - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="query and path practice - done" />
   </component>
 </project>
