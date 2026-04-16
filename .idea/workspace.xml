@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="Query parameters and str validation theory done">
-      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/practice/main.py" afterDir="false" />
+    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="Query parameters and str validation practice - done">
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/practice 2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/practice 3/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776344960572</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Query parameters and str validation practice - done">
+      <option name="closed" value="true" />
+      <created>1776345577718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776345577718</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +211,7 @@
     <MESSAGE value="body theory" />
     <MESSAGE value="body practice" />
     <MESSAGE value="Query parameters and str validation theory done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Query parameters and str validation theory done" />
+    <MESSAGE value="Query parameters and str validation practice - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Query parameters and str validation practice - done" />
   </component>
 </project>
