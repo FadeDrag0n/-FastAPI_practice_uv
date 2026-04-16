@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="body theory">
-      <change afterPath="$PROJECT_DIR$/request_body/practice/main.py" afterDir="false" />
+    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="body practice">
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/alias/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/custom validation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/default_values/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/deprecated/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/ex1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/exclude from schema/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/more_metadata/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/bool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query/bool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/mixing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query/mixing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/practice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query/practice/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/unnecessary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query/unnecessary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_body/ex_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/request_body/ex_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_body/ex_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/request_body/ex_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_body/ex_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/request_body/ex_3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_body/ex_4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/request_body/ex_4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_body/practice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/request_body/practice/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/routes/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/main123.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/routes/main123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/main22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/routes/main22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +74,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\request_body" />
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation" />
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation\ex1" />
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv" />
-      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\another" />
-      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\15.04.2026" />
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\request_body" />
     </key>
   </component>
   <component name="RunManager">
@@ -162,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776334789114</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="body practice">
+      <option name="closed" value="true" />
+      <created>1776342226349</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776342226349</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +200,7 @@
     <MESSAGE value="query theory - done" />
     <MESSAGE value="query and path practice - done" />
     <MESSAGE value="body theory" />
-    <option name="LAST_COMMIT_MESSAGE" value="body theory" />
+    <MESSAGE value="body practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="body practice" />
   </component>
 </project>
