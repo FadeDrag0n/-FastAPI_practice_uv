@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="path parameters and int validation theory - done">
-      <change afterPath="$PROJECT_DIR$/Start/query model/ex2/main.py" afterDir="false" />
+    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="query model theory - done">
+      <change afterPath="$PROJECT_DIR$/Start/body/ex1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/body/ex2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/body/ex3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/body/ex4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/body/ex5/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start/query model/ex1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/query model/ex1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776433053490</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="query model theory - done">
+      <option name="closed" value="true" />
+      <created>1776433856295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776433856295</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +240,7 @@
     <MESSAGE value="Query parameters and str validation theory done" />
     <MESSAGE value="Query parameters and str validation practice - done" />
     <MESSAGE value="path parameters and int validation theory - done" />
-    <option name="LAST_COMMIT_MESSAGE" value="path parameters and int validation theory - done" />
+    <MESSAGE value="query model theory - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="query model theory - done" />
   </component>
 </project>
