@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="Query parameters and str validation practice - done">
-      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/practice 2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/Query parameters and str validation/practice 3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/path parameters and int validation/ex1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/path parameters and int validation/ex2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/path parameters and int validation/ex3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/path parameters and int validation/float validation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/query model/ex1/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +59,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\path parameters and int validation" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation\ex1" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv" />
-      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\request_body" />
     </key>
   </component>
   <component name="RunManager">
@@ -188,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776345577718</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Query parameters and str validation practice - done">
+      <option name="closed" value="true" />
+      <created>1776349657206</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776349657206</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
