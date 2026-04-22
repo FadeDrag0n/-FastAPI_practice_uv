@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="body 1 - done">
-      <change afterPath="$PROJECT_DIR$/CH2/Declaring sample request data/ex1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH2/Declaring sample request data/ex2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH2/Declaring sample request data/ex3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/body/field/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/body/inner models/main.py" afterDir="false" />
+    <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="body 2,3 and examples theory - done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776435594944</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="body 2,3 and examples theory - done">
+      <option name="closed" value="true" />
+      <created>1776782546831</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776782546831</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +253,7 @@
     <MESSAGE value="path parameters and int validation theory - done" />
     <MESSAGE value="query model theory - done" />
     <MESSAGE value="body 1 - done" />
-    <option name="LAST_COMMIT_MESSAGE" value="body 1 - done" />
+    <MESSAGE value="body 2,3 and examples theory - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="body 2,3 and examples theory - done" />
   </component>
 </project>
