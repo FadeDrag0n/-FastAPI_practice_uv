@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402c1294-ef73-4167-bfc1-9da423be6eb0" name="Changes" comment="additional models statuscodes and form theory - done">
+      <change afterPath="$PROJECT_DIR$/CH3/Files/ex1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/Files/ex2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/Files/ex3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/exceptions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/exceptions/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/exceptions/requesterror.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,28 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.path with parametres.executor&quot;: &quot;Run&quot;,
-    &quot;Python.response.executor&quot;: &quot;Run&quot;,
-    &quot;Python.union.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.path with parametres.executor": "Run",
+    "Python.requesterror.executor": "Run",
+    "Python.response.executor": "Run",
+    "Python.union.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\CH2\additional models\union" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\CH2\response models" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\path parameters and int validation" />
       <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation" />
-      <recent name="C:\Users\FadeDragon\Desktop\python\FastAPI_practice_uv\Start\Query parameters and str validation\ex1" />
     </key>
   </component>
   <component name="RunManager">
@@ -276,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777111588218</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="additional models statuscodes and form theory - done">
+      <option name="closed" value="true" />
+      <created>1777224699767</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1777224699767</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
